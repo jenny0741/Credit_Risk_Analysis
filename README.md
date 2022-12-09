@@ -22,3 +22,4 @@ Various machine learning models/algorithms were used to predict credit risk in p
 ![Resources/combination_cri](Resources/combination_cri.png)
 
 ## Summary
+Based on the results from the models above, the precision 
