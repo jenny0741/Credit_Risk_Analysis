@@ -7,6 +7,7 @@ Various machine learning models/algorithms were used to predict credit risk in p
 
 ### Naive Random Oversampling
 ![Resources/oversampling](Resources/oversampling.png)
+![Resources/oversampling_cri](Resources/oversampling_cri.png)
 
 ### SMOTE Oversampling
 ![Resources/smote](Resources/smote.png)
