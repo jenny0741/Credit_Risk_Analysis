@@ -14,5 +14,7 @@ Various machine learning models/algorithms were used to predict credit risk in p
 ### Undersampling
 ![Resources/undersampling](Resources/undersampling.png)
 
+### Combination Sampling
+![Resources/combination](Resources/combination.png)
 
 ## Summary
