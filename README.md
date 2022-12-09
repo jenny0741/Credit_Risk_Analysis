@@ -22,4 +22,6 @@ Various machine learning models/algorithms were used to predict credit risk in p
 ![Resources/combination_cri](Resources/combination_cri.png)
 
 ## Summary
-Based on the results from the models above, the precision 
+Note: There are no results for the BalancedRandomForestClassifier or the EasyEnsembleClassifier. Issues occured during the process of evaluating the models. These models will be revisted and updated at a later date. Summary and results are only for the 4 models above.
+
+Based on the results from the models above, the precision for all of them are averaged out to 0.99, indicating a high accuracy. Which means to compare the models, comparing the accuracy scores would be a better indicator.
