@@ -11,5 +11,8 @@ Various machine learning models/algorithms were used to predict credit risk in p
 ### SMOTE Oversampling
 ![Resources/smote](Resources/smote.png)
 
+### Undersampling
+![Resources/undersampling](Resources/undersampling.png)
+
 
 ## Summary
